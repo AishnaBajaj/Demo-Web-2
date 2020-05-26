@@ -1,0 +1,56 @@
+
+
+h1{
+	font-family: Piedra;
+	text-align:center;
+	background-color:black; 
+	color: white;
+}
+
+hr{
+	border:solid black;
+}
+	
+
+p{
+	font-family: Piedra;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:25px;
+}
+
+header{
+	background-color: black;
+	padding: 20px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin:100px;
+
+	
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover{
+	color:red;
+	text-decoration: underline;
+}
+
+
+.footer{
+background-color: black;
+color: white;
+}
+
+.specialPara{
+	font-size:20px;
+}
+
